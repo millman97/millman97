@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi&#44;+my+name+is+Tom&#46;;Thanks+for+visiting+my+GitHub&#46;&color=000&multiline=true&height=100&width=550&vCenter=true&Center=true&size=30)](https://git.io/typing-svg) <img align="right" src="https://api.visitorbadge.io/api/visitors?path=millman97&label=VISITORS&labelColor=%23ffffff&countColor=%23ffffff"/>
 
-## 👨‍💻 Tech I've Used
+## 👨‍💻 Tech I've Used <!--Get logos and colours from https://simpleicons.org/-->
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
